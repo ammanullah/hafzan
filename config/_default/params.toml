@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Hyas"
+title = "Hafzan Holdings"
 titleSeparator = "-"
 titleAddition = "Modern Hugo Starter"
 description = "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
@@ -19,8 +19,8 @@ twitterCreator = "@henkverlinde"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Hyas"
-schemaAuthor = "Henk Verlinde"
+schemaName = "Hafzan Holdings"
+schemaAuthor = "Hafzan Osmanoglu"
 schemaAuthorTwitter = "https://twitter.com/henkverlinde"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
@@ -58,8 +58,8 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+footer = "Copyright (c) 2020-2021 Hafzan Holdings"
+copyRight = "Copyright (c) 2020-2021 Hafzan Holdings"
 
 # Alert
 alert = false
@@ -70,9 +70,28 @@ alertText = "Deliver web projects 10x faster. <a class=\"alert-link\" href=\"htt
 docsRepo = "https://github.com/h-enk/gethyas.com/"
 editPage = true
 
+
 [options]
   lazySizes = true
   clipBoard = true
   instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
   bootStrapJs = true
-  collapsibleSidebar = false
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
+
