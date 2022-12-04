@@ -1,7 +1,7 @@
 ---
-title : "Modern Hugo Starter"
-description: "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
-lead: "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
+title : "Eloquent in investing"
+description: ""
+lead: ""
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
