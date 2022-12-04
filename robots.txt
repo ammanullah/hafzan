@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gethyas.com/sitemap.xml
+Sitemap: https://ammanullah.github.io/hafzan/sitemap.xml
