@@ -18,7 +18,7 @@ toc: false
             <h1>1. Investment Banking</h1>
             <p class="lead">Providing large corporate, government and institutional clients with a full spectrum of strategic advisory, financing and risk management solutions.
             </p>
-            <p class="lead"><a href="lotus/install/prerequisites/"><b>Read More →</b></a></p>
+            <p class="lead"><a href="/investment-banking/"><b>Read More →</b></a></p>
         </div>
     </div>
 </section>
@@ -28,7 +28,7 @@ toc: false
         <div>
             <h1>2. Global Markets</h1>
             <p class="lead">We serve our institutional investor clients by helping them to understand developments in global markets and offering execution and risk management tools across each major asset class.
-            <p class="lead"><a href="lotus/install/prerequisites/"><b>Read More →</b></a></p>
+            <p class="lead"><a href="/global-markets/"><b>Read More →</b></a></p>
         </div>
     </div>
 </section>
@@ -38,7 +38,7 @@ toc: false
         <div>
             <h1>3. Research</h1>
             <p class="lead">Our analysts strive to deliver differentiated market insights, actionable ideas and collaborative Research across asset classes.
-            <p class="lead"><a href="lotus/install/prerequisites/"><b>Read More →</b></a></p>
+            <p class="lead"><a href="/research/"><b>Read More →</b></a></p>
         </div>
     </div>
 </section>
