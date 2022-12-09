@@ -1,16 +1,12 @@
 ---
 title: "Solutions"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "Advisory, finance and risk management services that connect your ideas to capital and power possibilities."
+lead: "Advisory, finance and risk management services that connect your ideas to capital and power possibilities."
 date: 2020-12-15T18:50:26+01:00
 lastmod: 2020-12-15T18:50:26+01:00
 draft: false
-images: ["doks.png"]
-link: "https://getdoks.org/"
-contributors: ["Henk Verlinde"]
-menu:
-  themes:
-    parent: "browse"
+images: [""]
+contributors: ["Hafzan Osmanoglu"]
 weight: 999
 toc: false
 ---
