@@ -10,8 +10,6 @@ weight: 999
 toc: false
 ---
 ### Advisory, finance and risk management services that connect your ideas to capital and power possibilities.
-
-
 <section class="section container-fluid" style="margin:0px;" >
   <div>
         <div>
@@ -22,7 +20,6 @@ toc: false
         </div>
     </div>
 </section>
-
 <section class="section container-fluid" style="margin:0px;" >
   <div>
         <div>
@@ -32,7 +29,6 @@ toc: false
         </div>
     </div>
 </section>
-
 <section class="section container-fluid" style="margin:0px;" >
   <div>
         <div>
