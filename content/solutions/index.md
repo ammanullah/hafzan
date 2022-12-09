@@ -5,7 +5,6 @@ lead: "Advisory, finance and risk management services that connect your ideas to
 date: 2020-12-15T18:50:26+01:00
 lastmod: 2020-12-15T18:50:26+01:00
 draft: false
-images: [""]
 contributors: ["Hafzan Osmanoglu"]
 weight: 999
 toc: false
