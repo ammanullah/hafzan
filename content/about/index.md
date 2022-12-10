@@ -17,7 +17,7 @@ toc: false
 
 <hr>
 
-# Our Vision
+## Our Vision
 
 <section class="section container-fluid" style="margin:0px;" >
   <div>
@@ -50,7 +50,7 @@ toc: false
 </section>
 <hr>
 
-# Our Values
+## Our Values
 
 Our five Values – Respect, Integrity, Service, Excellence and Stewardship – are our moral compass; the fundamentals of who we are and what we believe is right.
 
@@ -93,4 +93,4 @@ Our five Values – Respect, Integrity, Service, Excellence and Stewardship – 
 
 ## Our Performance measures
 
-##### We analyse a broad range of financial and non-financial measures to make sure our strategy is working. Ultimately, the experience of our stakeholders is the key indicator as to whether we are succeeding.
+### We analyse a broad range of financial and non-financial measures to make sure our strategy is working. Ultimately, the experience of our stakeholders is the key indicator as to whether we are succeeding.
