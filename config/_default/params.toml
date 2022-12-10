@@ -3,37 +3,29 @@
 ## Homepage
 title = "Hafzan Holdings"
 titleSeparator = "-"
-titleAddition = "Modern Hugo Starter"
-description = "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Home"
+description = "We deliver active investment strategies across public and private markets and custom solutions to institutional and individual investors."
 
 ## Open Graph
-images = ["hyas.png"]
 ogLocale = "en_US"
-domainTLD = "gethyas.com"
-titleHome = "Hyas Hugo Starter"
+titleHome = "Hafzan Holdings"
 
-## Twitter Cards
-twitterSite = "@gethyas"
-twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Hafzan Holdings"
 schemaAuthor = "Hafzan Osmanoglu"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
-schemaLogo = "logo-hyas.png"
+schemaLogo = ""
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "hyas.png"
+schemaImage = ""
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/gethyas"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/hyas"
+schemaGitHub = ""
 schemaSection = "blog"
 
 ## Sitelinks Search Box
