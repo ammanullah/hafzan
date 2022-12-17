@@ -2,8 +2,8 @@
 title: "The Economics of Renewable Energy"
 description: "The Economics of Renewable Energy"
 lead: ""
-date: 2020-10-06T08:50:12+00:00
-lastmod: 2020-10-06T08:50:12+00:00
+date: 2022-11-16T08:50:12+00:00
+lastmod: 2022-11-16T08:50:12+00:00
 draft: false
 weight: 50
 contributors: ["Hafzan Osmanoglu"]
