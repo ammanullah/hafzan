@@ -2,8 +2,8 @@
 title: "The Economic Impact of the Pandemic: A Retrospective"
 description: "The Economic Impact of the Pandemic: A Retrospective"
 lead: ""
-date: 2020-10-06T08:50:12+00:00
-lastmod: 2020-10-06T08:50:12+00:00
+date: 2022-11-23T08:50:12+00:00
+lastmod: 2022-11-23T08:50:12+00:00
 draft: false
 weight: 50
 contributors: ["Hafzan Osmanoglu"]
